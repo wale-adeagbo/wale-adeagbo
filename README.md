@@ -1,8 +1,8 @@
 # Hi, I'm Wale Adeagbo
 
-**IT Management | Tech Operations | Cloud & Infrastructure | Tech. Delivery**
+**Tech Operations | IT Service Management | Cloud & Infrastructure | Service Delivery**
 
-I’m an IT professional focused on delivering reliable, secure, and scalable operational environments. I operate at the intersection of hands-on technical execution and process-driven service management, improving system reliability, incident response, and operational efficiency across cloud infrastructure, monitoring, and governance
+I’m an IT professional focused on delivering reliable, secure, and scalable operational environments. I operate at the intersection of hands-on technical execution and process-driven service management, improving system reliability, incident response, and operational efficiency across cloud infrastructure, monitoring, and governance.
 
 ---
 
