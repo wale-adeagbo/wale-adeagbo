@@ -24,7 +24,7 @@ This GitHub is a working portfolio of the systems, processes, and frameworks I b
 |  [Cloud-Cost-Dashboard](https://github.com/wale-adeagbo/Cloud-Cost-Dashboard) | Dashboard for tracking and reporting cloud spend and anomalies | FinOps, Cloud Operations, TypeScript |
 |  [IT-Policy-Templates](https://github.com/wale-adeagbo/IT-Policy-Templates) | Versioned, markdown-based IT policies (AUP, onboarding, change mgmt) | Governance, Compliance, Documentation |
 |  [Disaster-Recovery-Runbook](https://github.com/wale-adeagbo/Disaster-Recovery-Runbook) | DR procedures, RTO/RPO definitions, and recovery automation scripts | Business Continuity, Shell Scripting |
-|  [Vendor-Assets-Inventory-System](https://github.com/wale-adeagbo/Vendor-Assets-Inventory-System) | Hardware tracking, licensing, Vendor management, Spreadsheet-backed | Business COntinuity, Vendor Management|
+|  [Vendor-Assets-Inventory-System](https://github.com/wale-adeagbo/Vendor-Assets-Inventory-System) | Hardware tracking, licensing, Vendor management, Spreadsheet-backed | Business COntinuity, Vendor Management, Renewals, Licensing|
 
 ---
 
@@ -49,9 +49,8 @@ This GitHub is a working portfolio of the systems, processes, and frameworks I b
 
 ##  Currently Building
 
--  **Homelab** — A fully documented home infrastructure environment (Proxmox, pfSense, Prometheus stack) with IaC provisioning via Terraform and Ansible
--  **Vendor & Asset Inventory System** — Lightweight tool for tracking hardware, licences, and renewal dates
-
+-   **Vendor & Asset Inventory System** — Lightweight tool for tracking hardware, licences, and renewal dates.
+-   **Homelab** — A fully documented home infrastructure environment (Proxmox, pfSense, Prometheus stack) with IaC provisioning via Terraform and Ansible.
 ---
 
 ##  Certifications
