@@ -27,7 +27,7 @@ This GitHub is a working portfolio of the systems, processes, and frameworks I b
 
 ---
 
-## 🛠️ Core Skills & Tools
+## Core Skills & Tools
 
 **Cloud & Infrastructure**
 `AWS` `Azure` `Terraform` `Ansible` `Proxmox` `Linux` `Docker`
