@@ -2,21 +2,19 @@
 
 **Tech Operations | IT Service Management | Cloud & Infrastructure | Service Delivery**
 
-I’m an IT professional focused on delivering reliable, secure, and scalable operational environments. I operate at the intersection of hands-on technical execution and process-driven service management, improving system reliability, incident response, and operational efficiency across cloud infrastructure, monitoring, and governance.
-
----
+I’m an IT professional focused on delivering reliable, secure, and scalable operational environments. I operate at the intersection of hands-on technical execution and process-driven service management, driving improvements in system reliability, incident response, and operational efficiency across cloud infrastructure, monitoring, and governance.
 
 ---
 
 ## What You'll Find Here
 
-This GitHub is a working portfolio of the systems, processes, and frameworks I build and document. Every repo is structured to reflect how I think about IT operations — with architecture decisions, runbooks, and real documentation, not just code.
+This GitHub is a working portfolio of the systems, processes, and frameworks I build and document. Each project reflects how I approach IT operations — with a focus on reliability, service management, and real-world execution.
 
 ---
 
 ## Featured Projects
 
-| Project | What it is | Key skills |
+| Project | Operational Purpose | Key skills |
 |---|---|---|
 |  [Change-Management-Workflow](https://github.com/wale-adeagbo/Change-Management-Workflow) | ITIL-aligned change request process using GitHub Projects | ITIL, Process Automation, Governance |
 |  [Incident-Response-Playbook](https://github.com/wale-adeagbo/Incident-Response-Playbook) | Versioned runbooks for common incident types with decision trees | Incident Management, Documentation |
