@@ -2,7 +2,7 @@
 
 **IT Management | Tech Operations | Cloud & Infrastructure | Tech. Delivery**
 
-I'm an IT professional focused on building reliable, secure, and scalable operational environments. My work sits at the intersection of hands-on technical delivery and process-driven management — from cloud infrastructure and monitoring pipelines to governance frameworks and incident response.
+I’m an IT professional focused on delivering reliable, secure, and scalable operational environments. I operate at the intersection of hands-on technical execution and process-driven service management, improving system reliability, incident response, and operational efficiency across cloud infrastructure, monitoring, and governance
 
 ---
 
