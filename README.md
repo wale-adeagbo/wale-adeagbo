@@ -1,19 +1,19 @@
 # Hi, I'm Wale Adeagbo
 
 
-**Tech Operations | IT Service Management | Cloud & Infrastructure | Service Delivery**                          
-<sub>*Building production-grade operational frameworks through documentation, automation, and governance.*</sub>
+**Tech Operations | Infrastructure, Observability & Cloud Operations | IT Service Management**                          
+<sub>*Building production-grade operational systems through documentation, automation, and governance.*</sub>
 
 
 
 
-I’m an IT professional focused on delivering reliable, secure, and scalable operational environments. I operate at the intersection of hands-on technical execution and process-driven service management, driving improvements in system reliability, incident response, and operational efficiency across cloud infrastructure, monitoring, and governance.
+I’m an IT professional focused on delivering reliable, secure, and scalable operational environments. I operate at the intersection of hands-on infrastructure engineering and process-driven service management, building systems that improve reliability, incident response, and operational efficiency across identity, governance, monitoring, and cloud environment.
 
 ---
 
 ## What You'll Find Here
 
-This GitHub is a working portfolio of the systems, processes, and frameworks I build and document. Each project reflects how I approach IT operations — with a focus on reliability, service management, and real-world execution.
+ This GitHub is a working portfolio of the systems and operational frameworks I build and document. Projects are structured to reflect real-world IT operations — combining infrastructure, monitoring, and service management processes rather than isolated tools.
 
 ---
 
@@ -21,6 +21,7 @@ This GitHub is a working portfolio of the systems, processes, and frameworks I b
 
 | Project | Operational Purpose | Key skills |
 |---|---|---|
+|  [Homelab](https://github.com/wale-adeagbo/homelab) | End-to-end IT infrastructure lab (AD, monitoring, networking) simulating enterprise environments | Active Directory, Monitoring, Infrastructure |
 |  [Change-Management-Workflow](https://github.com/wale-adeagbo/Change-Management-Workflow) | ITIL-aligned change request process using GitHub Projects | ITIL, Process Automation, Governance |
 |  [Incident-Response-Playbook](https://github.com/wale-adeagbo/Incident-Response-Playbook) | Versioned runbooks for common incident types with decision trees | Incident Management, Documentation |
 |  [SLA-Uptime-Tracker](https://github.com/wale-adeagbo/SLA-Uptime-Tracker) | Service monitoring tool that generates weekly SLA reports | Monitoring, Reliability, TypeScript |
@@ -28,6 +29,7 @@ This GitHub is a working portfolio of the systems, processes, and frameworks I b
 |  [IT-Policy-Templates](https://github.com/wale-adeagbo/IT-Policy-Templates) | Versioned, markdown-based IT policies (AUP, onboarding, change mgmt) | Governance, Compliance, Documentation |
 |  [Disaster-Recovery-Runbook](https://github.com/wale-adeagbo/Disaster-Recovery-Runbook) | DR procedures, RTO/RPO definitions, and recovery automation scripts | Business Continuity, Shell Scripting |
 |  [Vendor-Assets-Inventory-System](https://github.com/wale-adeagbo/Vendor-Assets-Inventory-System) | Hardware tracking, licensing, Vendor management, Spreadsheet-backed | Business Continuity, Vendor Management, Renewals, Licensing|
+
 
 ---
 
@@ -60,10 +62,10 @@ The projects here are not demos — they are examples of how I would structure I
 
 ---
 
-##  Currently Building
+## Currently Building
 
--   **Vendor & Asset Inventory System** — Lightweight tool for tracking hardware, licences, and renewal dates.
--   **Homelab** — A fully documented home infrastructure environment (Proxmox, pfSense, Prometheus stack) with IaC provisioning via Terraform and Ansible.
+- **Homelab Expansion** — Extending infrastructure with monitoring integration, security tooling, and automation (Terraform / Ansible)
+- **Vendor & Asset Inventory System** — Lightweight tool for tracking hardware, licences, and renewal dates
 ---
 
 ##  Certifications
