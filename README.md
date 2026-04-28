@@ -45,14 +45,14 @@ The projects here are not demos — they are examples of how I would structure I
 
 ## Core Skills & Tools
 
-**Cloud & Infrastructure**
-`AWS` `Azure` `Terraform` `Ansible` `Proxmox` `Linux` `Docker`
+**IT Governance & ITIL**
+`Change Management` `Incident Management` `Problem Management` `SLA/OLA` `ITIL v4`
 
 **Monitoring & Observability**
 `Prometheus` `Grafana` `Uptime Kuma` `Loki` `Alertmanager`
 
-**IT Governance & ITIL**
-`Change Management` `Incident Management` `Problem Management` `SLA/OLA` `ITIL v4`
+**Cloud & Infrastructure**
+`AWS` `Azure` `Terraform` `Ansible` `Proxmox` `Linux` `Docker`
 
 **Networking & Security**
 `pfSense` `VLANs` `DNS` `VPN` `Zero Trust` `IAM`
