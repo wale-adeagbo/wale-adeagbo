@@ -65,7 +65,6 @@ The projects here are not demos — they reflect how I've structured IT operatio
 ## Currently Building
 
 - **Homelab Expansion** — Extending infrastructure with monitoring integration, security tooling, and automation (Terraform / Ansible)
-- **Vendor & Asset Inventory System** — Lightweight tool for tracking hardware, licences, and renewal dates
 ---
 
 ##  Certifications
