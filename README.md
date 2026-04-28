@@ -41,7 +41,7 @@ I design systems and processes with three principles:
 * Improve service reliability through monitoring, alerting, and SLA tracking.
 * Enable teams to work predictably through change control, runbooks, and governance.
 
-The projects here are not demos — they are examples of how I would structure IT operations inside a real organisation.
+The projects here are not demos — they reflect how I've structured IT operations in real organisations.
 
 ## Core Skills & Tools
 
