@@ -21,7 +21,7 @@ I’m an IT professional focused on delivering reliable, secure, and scalable op
 
 | Project | Operational Purpose | Key skills |
 |---|---|---|
-|  [Homelab](https://github.com/wale-adeagbo/homelab) | End-to-end IT infrastructure lab (AD, monitoring, networking) simulating enterprise environments | Active Directory, Monitoring, Infrastructure |
+|  [Homelab](https://github.com/wale-adeagbo/homelab) | End-to-end IT infrastructure lab (AD, monitoring, networking) simulating enterprise environments | Active Directory, Monitoring, Infrastructure, Automation & Networking |
 |  [Change-Management-Workflow](https://github.com/wale-adeagbo/Change-Management-Workflow) | ITIL-aligned change request process using GitHub Projects | ITIL, Process Automation, Governance |
 |  [Incident-Response-Playbook](https://github.com/wale-adeagbo/Incident-Response-Playbook) | Versioned runbooks for common incident types with decision trees | Incident Management, Documentation |
 |  [SLA-Uptime-Tracker](https://github.com/wale-adeagbo/SLA-Uptime-Tracker) | Service monitoring tool that generates weekly SLA reports | Monitoring, Reliability, TypeScript |
