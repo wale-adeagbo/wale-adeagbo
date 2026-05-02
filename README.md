@@ -62,9 +62,10 @@ The projects here are not demos — they reflect how I've structured IT operatio
 
 ---
 
-## Currently Building
+## Latest Project
 
-- **Homelab Expansion** — Extending infrastructure with monitoring integration, security tooling, and automation (Terraform / Ansible)
+- **Homelab Infrastructure Portfolio** —  A fully documented homelab covering Ansible automation, Terraform IaC, AWS cloud integration, Wazuh SIEM, SSH hardening, Prometheus monitoring, and Active Directory — all running on a physical mini PC simulating enterprise IT environments.
+
 ---
 
 ##  Certifications
