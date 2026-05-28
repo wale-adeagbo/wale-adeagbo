@@ -22,7 +22,7 @@ I’m an IT professional focused on delivering reliable, secure, and scalable op
 | Project | Operational Purpose | Key skills |
 |---|---|---|
 |  [Homelab](https://github.com/wale-adeagbo/homelab) | End-to-end IT infrastructure lab (AD, monitoring, networking) simulating enterprise environments | Active Directory, Monitoring, Infrastructure, Automation & Networking |
-|  [IaC-Lab](https://github.com/wale-adeagbo/IaC-Lab) | Hands-on IaC lab progressing from manual kubectl to terraform-managed Kubernetes infrastructure | Kubernetes, Terraform, Microk8s, IaC, DevOps |
+|  [IaC-Lab](https://github.com/wale-adeagbo/IaC-Lab) | Hands-on IaC lab progressing from manual kubectl to a full Terraform + Ansible + Kubernetes pipeline | Kubernetes, Terraform, Ansible, Microk8s, IaC, Shell Scripting |
 |  [Change-Management-Workflow](https://github.com/wale-adeagbo/Change-Management-Workflow) | ITIL-aligned change request process using GitHub Projects | ITIL, Process Automation, Governance |
 |  [Incident-Response-Playbook](https://github.com/wale-adeagbo/Incident-Response-Playbook) | Versioned runbooks for common incident types with decision trees | Incident Management, Documentation |
 |  [SLA-Uptime-Tracker](https://github.com/wale-adeagbo/SLA-Uptime-Tracker) | Service monitoring tool that generates weekly SLA reports | Monitoring, Reliability, TypeScript |
@@ -65,18 +65,24 @@ The projects here are not demos — they reflect how I've structured IT operatio
 
 ## Latest Project
 
-- **Homelab Infrastructure Portfolio** —  A fully documented homelab covering Ansible automation, Terraform IaC, AWS cloud integration, Wazuh SIEM, SSH hardening, Prometheus monitoring, and Active Directory — all running on a physical mini PC simulating enterprise IT environments.
+- ## Latest Project
+
+- **IaC Lab** — A fully documented IaC learning lab built on a local Ubuntu machine,
+progressing from manual kubectl commands through YAML manifests, Terraform provisioning,
+Ansible configuration management, and a full orchestrated pipeline. All version controlled
+and documented on GitHub.
 
 ---
 
-##  Certifications
+##  Professional Development
 
 <!-- Add yours here, for example: -->
-- Linux Administrator I
-- Comptia Cloud
-- Applied AI for IT Operations
-- Wireshark: Network Troubleshooting
-- IT Service Desk: Service Management
+●​ Applied AI for IT Operations – (Specializing in AIOps for workflow automation).
+●​ Linux Administrator I – Industry Validated (Focus on server hardening and administration).
+●​ Wireshark: Network Troubleshooting – (Advanced network analysis and Tier 3 diagnostics).PROFESSIONAL DEVELOPMENT
+●​ Applied AI for IT Operations – (Specializing in AIOps for workflow automation).
+●​ Linux Administrator I – Industry Validated (Focus on server hardening and administration).
+●​ Wireshark: Network Troubleshooting – (Advanced network analysis and Tier 3 diagnostics).
 
 ---
 
