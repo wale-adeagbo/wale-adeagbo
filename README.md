@@ -77,7 +77,7 @@ and documented on GitHub.
 ##  Professional Development
 
 <!-- Add yours here, for example: -->
-●​ Applied AI for IT Operations – (Specializing in AIOps for workflow automation).
+●​ Applied AI for IT Operations – (Specializing in AIOps for workflow automation).<br>
 ●​ Linux Administrator I – Industry Validated (Focus on server hardening and administration).
 ●​ Wireshark: Network Troubleshooting – (Advanced network analysis and Tier 3 diagnostics).
 
