@@ -53,7 +53,7 @@ The projects here are not demos — they reflect how I've structured IT operatio
 `Prometheus` `Grafana` `Uptime Kuma` `Loki` `Alertmanager`
 
 **Cloud & Infrastructure**
-`AWS` `Azure` `Terraform` `Ansible` `Proxmox` `Linux` `Docker`
+`AWS` `Azure` `Terraform` `Kubernetes` `Ansible` `Proxmox` `Linux` `Docker`
 
 **Networking & Security**
 `pfSense` `VLANs` `DNS` `VPN` `Zero Trust` `IAM`
