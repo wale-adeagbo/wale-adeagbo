@@ -65,8 +65,6 @@ The projects here are not demos — they reflect how I've structured IT operatio
 
 ## Latest Project
 
-- ## Latest Project
-
 - **IaC Lab** — A fully documented IaC learning lab built on a local Ubuntu machine,
 progressing from manual kubectl commands through YAML manifests, Terraform provisioning,
 Ansible configuration management, and a full orchestrated pipeline. All version controlled
